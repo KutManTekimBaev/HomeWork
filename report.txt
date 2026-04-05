@@ -1,0 +1,5 @@
+1:WARNING: low memory
+1:ERROR: crash detected
+1:WARNING: check this
+1:ERROR: failed request
+1:ERROR: something broke
